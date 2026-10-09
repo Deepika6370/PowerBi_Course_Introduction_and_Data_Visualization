@@ -455,7 +455,7 @@ This Power BI project demonstrates:
 
 ## 📷 Column Chart Screenshot
 
-![Column Chart Screenshot](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
+![Column Chart Screenshot](https://github.com/Deepika6370/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/PowerBi_Course_Introduction_and_Data_Visualization-main/05.%20Creating%20a%20Column%20Chart/Images/image05.png)
 
 ------------------------------------------------------------------------
 

@@ -21,7 +21,7 @@ Both visuals represent a **part-to-whole relationship**, where each category sho
   The following image shows the Pie Chart and Donut Chart created in Power BI:
 </p>
 
-![Power BI Pie & Donut Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
+![Power BI Pie & Donut Chart](https://github.com/Deepika6370/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/PowerBi_Course_Introduction_and_Data_Visualization-main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
 
 ---images\image07.png
 
